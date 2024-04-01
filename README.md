@@ -1,5 +1,5 @@
 # 💫About Me :
-hey there, I'm iulian and I'm an app creator and tech enthusiast 🍃
+Hey there, I'm iulian and I'm an app creator and tech enthusiast 🍃
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iulianalbu/) 
