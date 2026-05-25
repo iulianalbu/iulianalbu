@@ -13,8 +13,19 @@
 ---
 
 ```bash
-$ cd ~/website && find . -iname "iulianalbu*"
-./iulianalbu.dev
+~
+➜ ls
+apps  website  Documents  Downloads
+
+~
+➜ cd website
+
+~/website
+➜ ls
+iulianalbu.dev
+
+~/website
+➜ open iulianalbu.dev
 ```
 
 </td>
