@@ -27,7 +27,7 @@ jobs:
           find profile-summary-card-output -mindepth 1 -maxdepth 1 -type d ! -name transparent -exec rm -rf {} +
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add profile-summary-card-output/
+          git pull --rebase
           git diff --staged --quiet || git commit -m "Generate profile summary cards"
           git push
