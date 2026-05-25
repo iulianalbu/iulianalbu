@@ -16,10 +16,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.SUMMARY_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SUMMARY_CARDS || secrets.GITHUB_TOKEN }}
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: iulianalbu
       - name: Make cards transparent
