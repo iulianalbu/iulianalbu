@@ -2,8 +2,6 @@
 
 Technical Lead · frontend at scale · secure architecture · systems design
 
-<a href="https://iulianalbu.dev"><img src="https://iulianalbu.dev/api/og/generate?title=iulianalbu.dev&minimal=true" width="100%" alt="iulianalbu.dev"></a>
-
 <a href="https://iulianalbu.dev"><img src="https://img.shields.io/badge/-iulianalbu.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
 <a href="https://linkedin.com/in/iulianalbu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
