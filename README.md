@@ -1,13 +1,9 @@
 # Iulian Albu
-probably refactoring something that already worked
+> probably refactoring something that already worked
 
 <table>
 <tr>
 <td valign="top" width="40%">
-
-> Frontend at scale, secure architecture, systems design.
-
----
 
 ```diff
 + tickets older than three managers
@@ -17,8 +13,8 @@ probably refactoring something that already worked
 ---
 
 ```bash
-$ find ~/web -iname "iulianalbu*"
-~/website/iulianalbu.dev
+$ cd ~/website && find . -iname "iulianalbu*"
+./iulianalbu.dev
 ```
 
 </td>
