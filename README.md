@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="50%">
 
 Technical Lead building frontend at scale with secure architecture and systems design. TypeScript / React / Node across e-commerce, telecom, and industrial OT. Turns vague requirements into shipped product. Allergic to meetings that should have been a Slack thread.
 
@@ -10,7 +10,7 @@ Technical Lead building frontend at scale with secure architecture and systems d
 <a href="https://linkedin.com/in/iulianalbu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </td>
-<td valign="top" width="75%">
+<td valign="top" width="50%">
 
 <img src="./profile-summary-card-output/transparent/0-profile-details.svg" width="100%" alt="Profile details">
 <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" width="100%" alt="Top languages by repo">
