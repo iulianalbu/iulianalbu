@@ -22,3 +22,21 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: iulianalbu
+      - name: Make cards transparent
+        run: |
+          python3 << 'EOF'
+          import re, glob
+          for path in glob.glob('profile-summary-card-output/**/*.svg', recursive=True):
+              with open(path) as f:
+                  svg = f.read()
+              svg = re.sub(r'(<rect x="1" y="1"[^>]*?)fill="[^"]+"', r'\1fill="none"', svg)
+              svg = re.sub(r'(<rect x="1" y="1"[^>]*?)stroke="[^"]+"', r'\1stroke="none"', svg)
+              with open(path, 'w') as f:
+                  f.write(svg)
+          EOF
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add profile-summary-card-output/
+          git diff --staged --quiet || git commit -m "Make profile cards transparent"
+          git push
