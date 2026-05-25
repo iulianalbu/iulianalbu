@@ -32,17 +32,12 @@ iulianalbu.dev
 
 </td>
 <td valign="top" width="50%">
-
-#### stack
-
 <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" width="100%" alt="Top languages by repo">
 <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" width="100%" alt="Top languages by commit">
 </td>
 </tr>
 <tr>
-<td colspan="2">
-
-#### activity
+<td>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iulianalbu/iulianalbu/output/github-contribution-grid-snake-dark.svg">
