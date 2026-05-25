@@ -1,28 +1,47 @@
-# 👋 About Me
+<h1 align="center">Iulian Albu</h1>
+<p align="center">Technical Lead & Software Architect · Romania</p>
 
-Hey, I’m **Iulian**  
-App creator & tech nerd 🍃  
-I build things, break them, learn fast, repeat 👀  
+<p align="center">
+  <a href="https://iulianalbu.dev"><img src="https://img.shields.io/badge/Website-iulianalbu.dev-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/iulianalbu/"><img src="https://img.shields.io/badge/LinkedIn-iulianalbu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@iulianalbu.dev"><img src="https://img.shields.io/badge/Mail-contact%40iulianalbu.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+</p>
 
-## 🔗 Connect with Me
-[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=vercel&logoColor=white)](https://iulianalbu.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iulianalbu/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iulianalbu&style=for-the-badge&color=0a0a0a&label=Profile+views" alt="Profile views">
+</p>
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+### About
+
+9+ years building and scaling enterprise platforms across e-commerce, telecom, and industrial security. Lead distributed teams, design systems, and turn hard problems into shipped product.
+
+### Current focus
+
+- **SentryOT** — architecture for an industrial security & OT monitoring platform: asset discovery, network monitoring, incident detection.
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/System%20Design-0a0a0a?style=flat-square" alt="System Design">
+</p>
+
+### GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=iulianalbu&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iulianalbu&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" height="160">
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iulianalbu&hide_border=true&theme=transparent" alt="GitHub streak">
+</p>
