@@ -3,7 +3,7 @@
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ```diff
 + tickets older than three managers
@@ -18,7 +18,7 @@ $ cd ~/website && find . -iname "iulianalbu*"
 ```
 
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" width="100%" alt="Top languages by repo">
 <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" width="100%" alt="Top languages by commit">
 </td>
