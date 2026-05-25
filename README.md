@@ -1,30 +1,25 @@
 # Iulian Albu
-
-`status:` probably refactoring something that already worked · `editor:` [zed.dev](https://zed.dev) enjoyer
+probably refactoring something that already worked
 
 <table>
 <tr>
 <td valign="top" width="40%">
 
-> [!NOTE]
-> Tech Lead. Keeps an editor open in one monitor and a topo map in the other.
-
-Lately shipping `React` / `TypeScript` / `Node` between e-commerce checkouts and OT control planes. Occasionally arguing that the new framework will not, in fact, fix everything.
-
-```diff
-+ closing Jira tickets that have outlived three managers
-- replying to a Slack thread that should have been a commit message
-```
-
-> [!TIP]
-> Best bugs get solved on a hike. Trails > standups.
+> Frontend at scale, secure architecture, systems design.
 
 ---
 
-`find -name iulian`
+```diff
++ tickets older than three managers
+- threads that should've been commits
+```
 
-- [iulianalbu.dev](https://iulianalbu.dev)
-- [linkedin.com/in/iulianalbu](https://linkedin.com/in/iulianalbu)
+---
+
+```bash
+$ find ~/web -iname "iulianalbu*"
+~/website/iulianalbu.dev
+```
 
 </td>
 <td valign="top" width="60%">
