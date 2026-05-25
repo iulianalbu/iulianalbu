@@ -37,7 +37,7 @@ iulianalbu.dev
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iulianalbu/iulianalbu/output/github-contribution-grid-snake-dark.svg">
