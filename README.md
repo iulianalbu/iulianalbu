@@ -1,21 +1,35 @@
 # Iulian Albu
 
+`status:` probably refactoring something that already worked · `editor:` [zed.dev](https://zed.dev) enjoyer
+
 <table>
 <tr>
 <td valign="top" width="40%">
 
-Technical Lead building frontend at scale with secure architecture and systems design. TypeScript / React / Node across e-commerce, telecom, and industrial OT. Turns vague requirements into shipped product. Allergic to meetings that should have been a Slack thread.
+> [!NOTE]
+> Tech Lead. Keeps an editor open in one monitor and a topo map in the other.
 
-<a href="https://iulianalbu.dev"><img src="https://img.shields.io/badge/-iulianalbu.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a><br>
-<a href="https://linkedin.com/in/iulianalbu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+Lately shipping `React` / `TypeScript` / `Node` between e-commerce checkouts and OT control planes. Occasionally arguing that the new framework will not, in fact, fix everything.
+
+```diff
++ closing Jira tickets that have outlived three managers
+- replying to a Slack thread that should have been a commit message
+```
+
+> [!TIP]
+> Best bugs get solved on a hike. Trails > standups.
+
+---
+
+`find -name iulian`
+
+- [iulianalbu.dev](https://iulianalbu.dev)
+- [linkedin.com/in/iulianalbu](https://linkedin.com/in/iulianalbu)
 
 </td>
 <td valign="top" width="60%">
 <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" width="100%" alt="Top languages by repo">
 <img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" width="100%" alt="Top languages by commit">
-<img src="./profile-summary-card-output/transparent/0-profile-details.svg" width="100%" alt="Profile details">
-<img src="./profile-summary-card-output/transparent/4-productive-time.svg" width="100%" alt="Productive time">
-
 </td>
 </tr>
 <tr>
@@ -30,7 +44,3 @@ Technical Lead building frontend at scale with secure architecture and systems d
 </td>
 </tr>
 </table>
-
----
-
-Trails, cameras, perspective. Best bugs get solved on a hike.
