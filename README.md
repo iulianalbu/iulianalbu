@@ -11,7 +11,7 @@ Technical Lead · frontend at scale · secure architecture · systems design
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ```ts
 const me = {
@@ -25,9 +25,13 @@ const me = {
 ```
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
-<img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" width="100%" alt="Repos per language">
+<img src="./profile-summary-card-output/transparent/0-profile-details.svg" width="100%" alt="Profile details">
+<img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" width="100%" alt="Top languages by repo">
+<img src="./profile-summary-card-output/transparent/2-most-commit-language.svg" width="100%" alt="Top languages by commit">
+<img src="./profile-summary-card-output/transparent/3-stats.svg" width="100%" alt="Stats">
+<img src="./profile-summary-card-output/transparent/4-productive-time.svg" width="100%" alt="Productive time">
 
 </td>
 </tr>
