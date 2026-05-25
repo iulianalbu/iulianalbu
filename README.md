@@ -28,11 +28,14 @@ const me = {
 ### Most used (auto, from GitHub)
 
 <p>
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages by repo count">
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Most-committed languages">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commits">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Total commits & stats">
+</p>
+<p>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commit-hour heatmap">
 </p>
 
-<sub>Regenerated daily by a GitHub Action. Languages only — frameworks aren't auto-detected, but it's mostly React/Angular/Next/Expo on top.</sub>
+<sub>Regenerated daily by a GitHub Action (`github_dark` theme).</sub>
 
 ### Off the clock
 
