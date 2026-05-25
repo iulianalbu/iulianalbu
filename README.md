@@ -17,9 +17,9 @@ Technical Lead · frontend at scale · secure architecture · systems design
 const me = {
   role: "Technical Lead",
   focus: ["frontend at scale", "secure architecture", "systems design"],
-  domains: ["e-commerce", "telecom", "industrial security / OT"],
-  currently: ["architecting", "mentoring devs → tech leads", "pretending the new framework fixes everything"],
-  superpower: "turning vague requirements into shipped product",
+  domains: ["e-commerce", "telecom", "industrial OT"],
+  stack: ["TypeScript", "React", "Node"],
+  superpower: "vague requirements → shipped product",
   kryptonite: "meetings that should've been a Slack thread",
 };
 ```
